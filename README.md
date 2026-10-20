@@ -31,7 +31,7 @@ Built for the BNP Paribas "OneRecon" hackathon (UC-3). The full SRS flow is impl
 
 Click below to watch the complete project demonstration:
 
-[▶️ **Watch OneRecon Demo Video**](https://drive.google.com/file/d/1nncClH2YFWCNBs5Yk53NJZv1Ipeq4kRr/view?usp=sharing)
+[▶️ **Watch OneRecon Demo Video**]()
 
 
 <img width="1600" height="1515" alt="WhatsApp Image 2026-09-20 at 07 31 36" src="https://github.com/user-attachments/assets/5d90bebf-5a5e-4680-974a-01e040b6b436" />
